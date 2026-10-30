@@ -1,15 +1,14 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E2723,50:795548,100:D7CCC8&height=190&section=header&text=SHIVAM%20MISHRA&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Developer%20%7C%20ECE%20%7C%20Embedded%20Systems&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=795548&center=true&vCenter=true&width=600&lines=Building+projects+that+solve+real+problems;Web+Development+%7C+Python+%7C+Embedded+Systems;Always+learning.+Always+building." alt="Typing SVG"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=795548&center=true&vCenter=true&width=600&lines=Building+projects+that+solve+real+problems;Web+Development+%7C+Python+%7C+Embedded+Systems;Always+learning.+Always+building." />
 
 <p>
-  <img src="https://img.shields.io/badge/Student-VIT--AP-795548?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Branch-ECE%20%7C%20Embedded-6D4C41?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-C8A27A?style=flat-square"/>
+<a href="https://vitap.ac.in/"><img src="https://img.shields.io/badge/Student-VIT--AP-795548?style=flat-square"/></a>
+<img src="https://img.shields.io/badge/Branch-ECE%20%7C%20Embedded-6D4C41?style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-Web%20Development-C8A27A?style=flat-square"/>
 </p>
 
 </div>
@@ -22,7 +21,7 @@ Hi! I'm **Shivam Mishra**, a B.Tech Electronics and Communication Engineering st
 
 I'm interested in building practical software applications, exploring AI-powered solutions, and working with electronics and embedded hardware.
 
-- 💻 Interested in Web Development and Hardware Projects.
+- 💻 Interested in Web Development and Software Engineering.
 - 🔧 Exploring Embedded Systems and Arduino.
 - 🐍 Working with Python, Java and JavaScript/TypeScript.
 - 🚀 Building practical projects and improving my development skills.
@@ -33,6 +32,7 @@ I'm interested in building practical software applications, exploring AI-powered
 ## 🛠️ Tech Stack
 
 ### Programming Languages
+
 <p>
 <img src="https://img.shields.io/badge/Python-795548?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-6D4C41?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -41,6 +41,7 @@ I'm interested in building practical software applications, exploring AI-powered
 </p>
 
 ### Web Development
+
 <p>
 <img src="https://img.shields.io/badge/HTML5-795548?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-6D4C41?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -48,6 +49,7 @@ I'm interested in building practical software applications, exploring AI-powered
 </p>
 
 ### Tools & Platforms
+
 <p>
 <img src="https://img.shields.io/badge/Git-795548?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-3E2723?style=for-the-badge&logo=github&logoColor=white"/>
@@ -64,31 +66,31 @@ I'm interested in building practical software applications, exploring AI-powered
 <tr>
 <td width="50%">
 
-### 🎙️ SpeechLens
+<h3>🎙️ SpeechLens</h3>
 
-Speech Delivery Evaluation Tool
+<b>Speech Delivery Evaluation Tool</b>
 
 - Reference vs participant speech comparison.
 - Speech alignment and acoustic analysis.
 - Evaluation dashboard.
 
-**Tech:** Python, Streamlit, Audio Processing
+<b>Tech:</b> Python, Streamlit, Audio Processing
 
 <a href="https://github.com/shivamvk1845-dot/SpeechLens">View Repository →</a>
 
 </td>
 <td width="50%">
 
-### 🛡️ SafeStride
+<h3>🛡️ SafeStride</h3>
 
-Journey Planning & Safety Check-in App
+<b>Journey Planning & Safety Check-in App</b>
 
 - Journey planning.
 - Safety check-ins.
 - Optional location sharing.
 - Deployed web application.
 
-**Tech:** TypeScript, Web Development, Render
+<b>Tech:</b> TypeScript, Web Development, Render
 
 <a href="https://github.com/shivamvk1845-dot/SafeStride">View Repository →</a>
 
@@ -98,32 +100,34 @@ Journey Planning & Safety Check-in App
 <tr>
 <td width="50%">
 
-### 🤖 Student-Friendly Nerd AI
+<h3>🤖 Student-Friendly Nerd AI</h3>
 
-AI-Powered Study Aid
+<b>AI-Powered Study Aid</b>
 
 - Student-focused study interface.
 - Modern component-based structure.
 - Live Vercel deployment.
 
-**Tech:** Web Development, AI-enabled application
+<b>Tech:</b> Web Development, AI-enabled application
 
 <a href="https://github.com/shivamvk1845-dot/v0-student-friendly-nerd-ai">View Repository →</a>
 
 </td>
 <td width="50%">
 
-### 🌐 Student Portfolio
+<h3>🌐 Student Portfolio</h3>
 
-Personal Portfolio Website
+<b>Personal Portfolio Website</b>
 
 - Responsive portfolio.
 - Skills and project showcase.
 - GitHub Pages deployment.
 
-**Tech:** HTML, CSS, GitHub Pages
+<b>Tech:</b> HTML, CSS, GitHub Pages
 
 <a href="https://github.com/shivamvk1845-dot/student-portfolio">View Repository →</a>
+
+<a href="https://shivamvk1845-dot.github.io/student-portfolio/">Live Portfolio →</a>
 
 </td>
 </tr>
@@ -131,28 +135,33 @@ Personal Portfolio Website
 <tr>
 <td width="50%">
 
-### 💡 Li-Fi Data Transfer
+<h3>💡 Li-Fi Data Transfer</h3>
 
-Visible Light Communication Prototype
+<b>Visible Light Communication Prototype</b>
 
 - LED-based optical transmission.
 - BPW34 photodiode receiver.
 - Arduino and LCD integration.
 
-**Tech:** Arduino, BPW34, LM358
+<b>Tech:</b> Arduino, BPW34, LM358
 
 <a href="https://github.com/shivamvk1845-dot/LiFi-Data-Transfer">View Repository →</a>
 
 </td>
-<td width="50%"></td>
+<td width="50%">
+
+<h3>🤝 What's Next?</h3>
+
+Currently exploring new technologies, improving my development skills, and building more practical projects.
+
+</td>
 </tr>
 </table>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Certifications
 
-- SIH 2026 – College-level selection round.
 - Build With Bharat 2.0 – NIT Delhi participation.
 - Arduino: No-Code Programming – Alison.
 
