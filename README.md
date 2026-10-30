@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E2723,50:795548,100:D7CCC8&height=190&section=header&text=SHIVAM%20MISHRA&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Developer%20%7C%20ECE%20%7C%20Embedded%20Systems&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
