@@ -21,7 +21,7 @@ Hi! I'm **Shivam Mishra**, a B.Tech Electronics and Communication Engineering st
 
 I'm interested in building practical software applications, exploring AI-powered solutions, and working with electronics and embedded hardware.
 
-- 💻 Interested in Web Development and Software Engineering.
+- 💻 Interested in Web Development and Hardware Projects.
 - 🔧 Exploring Embedded Systems and Arduino.
 - 🐍 Working with Python, Java and JavaScript/TypeScript.
 - 🚀 Building practical projects and improving my development skills.
