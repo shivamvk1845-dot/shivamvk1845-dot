@@ -160,13 +160,6 @@ Currently exploring new technologies, improving my development skills, and build
 
 ---
 
-## 🏆 Achievements & Certifications
-
-- Build With Bharat 2.0 – NIT Delhi participation.
-- Arduino: No-Code Programming – Alison.
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
